@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\POO\Universidade\bin\Debug\Universidade.exe.config
+C:\Users\HP\Documents\POO\Universidade\bin\Debug\Universidade.exe
+C:\Users\HP\Documents\POO\Universidade\bin\Debug\Universidade.pdb
+C:\Users\HP\Documents\POO\Universidade\obj\Debug\Universidade.csprojAssemblyReference.cache
+C:\Users\HP\Documents\POO\Universidade\obj\Debug\Universidade.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\POO\Universidade\obj\Debug\Universidade.exe
+C:\Users\HP\Documents\POO\Universidade\obj\Debug\Universidade.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\POO\AluguerAutomoveis\bin\Debug\netcoreapp2.2\AluguerAutomoveis.deps.json
+C:\Users\HP\Documents\POO\AluguerAutomoveis\bin\Debug\netcoreapp2.2\AluguerAutomoveis.runtimeconfig.json
+C:\Users\HP\Documents\POO\AluguerAutomoveis\bin\Debug\netcoreapp2.2\AluguerAutomoveis.runtimeconfig.dev.json
+C:\Users\HP\Documents\POO\AluguerAutomoveis\bin\Debug\netcoreapp2.2\AluguerAutomoveis.dll
+C:\Users\HP\Documents\POO\AluguerAutomoveis\bin\Debug\netcoreapp2.2\AluguerAutomoveis.pdb
+C:\Users\HP\Documents\POO\AluguerAutomoveis\obj\Debug\netcoreapp2.2\AluguerAutomoveis.csprojAssemblyReference.cache
+C:\Users\HP\Documents\POO\AluguerAutomoveis\obj\Debug\netcoreapp2.2\AluguerAutomoveis.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\POO\AluguerAutomoveis\obj\Debug\netcoreapp2.2\AluguerAutomoveis.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\POO\AluguerAutomoveis\obj\Debug\netcoreapp2.2\AluguerAutomoveis.AssemblyInfo.cs
+C:\Users\HP\Documents\POO\AluguerAutomoveis\obj\Debug\netcoreapp2.2\AluguerAutomoveis.dll
+C:\Users\HP\Documents\POO\AluguerAutomoveis\obj\Debug\netcoreapp2.2\AluguerAutomoveis.pdb
